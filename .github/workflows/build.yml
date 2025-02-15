@@ -87,7 +87,7 @@ jobs:
               with:
                   tagName: 'wallstreetcn'
                   releaseName: 'wallstreetcn v__VERSION__'
-                  releaseBody: 'wallstreetcn client by PakePlus'
+                  releaseBody: ''
                   releaseDraft: false
                   prerelease: false
                   publish: true
